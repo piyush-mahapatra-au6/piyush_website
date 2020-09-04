@@ -15,9 +15,11 @@
 
 	--clr-light: #fff;
 	--clr-dark: #303030;
-	--clr-accent: #ff4816;
+	--clr-accent: #ec1944;
 	--clr-green: rgb(192, 222, 158);
 	--clr-reddish: #b93612;
+	--clr-yellow: #fbff00;
+
 
 	--fs-h1: 3rem;
 	--fs-h2: 2.25rem;
@@ -151,6 +153,7 @@ h3 {
 	padding: 0.25em 1em;
 	font-family: var(--ff-secondary);
 	margin-bottom: 1em;
+	color:var(--clr-light)
 }
 
 .section__subtitle--work {
